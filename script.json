@@ -1,0 +1,14 @@
+
+{
+    "name": "All Things Zombie: Final Fade Out Grunt Generator",
+    "script": "genGrunt.js",
+    "version": "0.1",
+    "previousversions": [],
+    "description": "Generates Grunts (NPCs) of type Citizen, Ganger and Survivor, generally following the guidelines of the tables from the rulebook.",
+    "authors": "Dave D.",
+    "roll20userid": "76",
+    "useroptions": [],
+    "dependencies": [],
+    "modifies": {},
+    "conflicts": []
+}
