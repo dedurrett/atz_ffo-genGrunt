@@ -8,7 +8,7 @@
     "authors": "Dave D.",
     "roll20userid": "76",
     "useroptions": [],
-    "dependencies": [],
+    "dependencies": ["splitArgs"],
     "modifies": {},
     "conflicts": []
 }
