@@ -3,7 +3,7 @@
     "script": "genGrunt.js",
     "version": "0.1",
     "previousversions": [],
-    "description": "Generates Grunts (NPCs) of type Citizen, Ganger and Survivor, generally following the guidelines of the tables from the rulebook.",
+    "description": "Create an ATZ:FFO character sheet for a randomly generated Grunt.",
     "authors": "Dave D.",
     "roll20userid": "76",
     "useroptions": [],
