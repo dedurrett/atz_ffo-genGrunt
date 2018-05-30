@@ -4,7 +4,7 @@
     "version": "0.1",
     "previousversions": [],
     "description": "Create an ATZ:FFO character sheet for a randomly generated Grunt.",
-    "authors": "Dave D.",
+    "authors": "Davemania",
     "roll20userid": "76",
     "useroptions": [],
     "dependencies": ["splitArgs"],
