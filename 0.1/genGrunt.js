@@ -85,6 +85,106 @@ genGrunt.randomNames = {
     'Zamora','Zimmerman'
   ]
 };
+genGrunt.tokens = {
+    fc_imgs: [
+        'https://s3.amazonaws.com/files.d20.io/images/63699848/jGLQAnWwyy4ITbNHhM9vXw/thumb.png?15381515935',
+        'https://s3.amazonaws.com/files.d20.io/images/63699846/ex2I8c9dpYCpct7rTBU81A/thumb.png?15381515935',
+        'https://s3.amazonaws.com/files.d20.io/images/63699843/J_6xt-AyI1TzHP8tWaKmhg/thumb.png?15381515935',
+        'https://s3.amazonaws.com/files.d20.io/images/63699847/4ie_YWH75V6cizKrFR1AuQ/thumb.png?15381515935',
+        'https://s3.amazonaws.com/files.d20.io/images/63699844/Yl6ugtAoZs_yZrsnyjxHig/thumb.png?15381515935',
+        'https://s3.amazonaws.com/files.d20.io/images/63699845/KshT_o3xTHB6cYOCLnSVTA/thumb.png?15381515935',
+        'https://s3.amazonaws.com/files.d20.io/images/63699849/AnTHSndd6LEM3G5-qzsYqg/thumb.png?15381515935',
+        'https://s3.amazonaws.com/files.d20.io/images/63699850/BNMSoRf7dMiRxoO1Xolufw/thumb.png?15381515935',
+        'https://s3.amazonaws.com/files.d20.io/images/63699851/-OAZJBOwngDGKu2IcRLk3g/thumb.png?15381515935',
+        'https://s3.amazonaws.com/files.d20.io/images/63699853/Dcqtfq6dEB2ObcY-CDtzwQ/thumb.png?15381515935'
+    ],
+    mc_imgs: [
+        'https://s3.amazonaws.com/files.d20.io/images/63699852/wCeJ7e8oQrhxxDrqE5aGYg/thumb.png?15381515935',
+        'https://s3.amazonaws.com/files.d20.io/images/63699854/uHu4oF1YQ3BiYk_lZcJASw/thumb.png?15381515935',
+        'https://s3.amazonaws.com/files.d20.io/images/63699855/f0X8SNpjrrh_6uGhuDP5DQ/thumb.png?15381515935',
+        'https://s3.amazonaws.com/files.d20.io/images/63699857/-Wj9eMt4gm1aMwTFwiM6Aw/thumb.png?15381515945',
+        'https://s3.amazonaws.com/files.d20.io/images/63699856/xR8P2qntTxQxM8_7tgUrkw/thumb.png?15381515935',
+        'https://s3.amazonaws.com/files.d20.io/images/63699858/NykOc79VVJ1pVXjM9IrqHQ/thumb.png?15381515945',
+        'https://s3.amazonaws.com/files.d20.io/images/63699859/P2ADXwlyyptg_pAI8wBTvw/thumb.png?15381515945',
+        'https://s3.amazonaws.com/files.d20.io/images/63699860/vD0UqsFhJYsKiyAG2cRt5A/thumb.png?15381515945',
+        'https://s3.amazonaws.com/files.d20.io/images/63699861/qo9WW9UG-NtTKbEG66Icog/thumb.png?15381515945',
+        'https://s3.amazonaws.com/files.d20.io/images/63699862/4V21aZkfxng3OnUaA7_BDw/thumb.png?15381515945'
+    ],
+    fs_imgs: [
+        'https://s3.amazonaws.com/files.d20.io/images/63703950/NV2t9XqfVO1q79ALNPNGZQ/thumb.png?1538155739',
+        'https://s3.amazonaws.com/files.d20.io/images/63703937/o_4pA4bxbAgvvCx6hfxhUQ/thumb.png?1538155738',
+        'https://s3.amazonaws.com/files.d20.io/images/63703936/BU1j6trECaxZtlggqK6U1w/thumb.png?1538155738',
+        'https://s3.amazonaws.com/files.d20.io/images/63703935/7wVh4NV1h4-WUolU24_4bw/thumb.png?1538155738',
+        'https://s3.amazonaws.com/files.d20.io/images/63703939/GvDt-aOUBI5JPmvjmSlFxg/thumb.png?1538155738',
+        'https://s3.amazonaws.com/files.d20.io/images/63703934/WmSdtxOOy2UxBLwP3V9zmQ/thumb.png?1538155738',
+        'https://s3.amazonaws.com/files.d20.io/images/63703932/MaeqIIVsWPkUFvnWabSGyg/thumb.png?1538155738',
+        'https://s3.amazonaws.com/files.d20.io/images/63703938/dkT1TNQIEmGm4VDJQIW3Og/thumb.png?1538155738',
+        'https://s3.amazonaws.com/files.d20.io/images/63703951/VsQ9dP6330xAwVCzc_zRCQ/thumb.png?1538155739',
+        'https://s3.amazonaws.com/files.d20.io/images/63703933/-dvyZ_x1wP1jcSCe4_YbEA/thumb.png?1538155738'
+    ],
+    ms_imgs: [
+        'https://s3.amazonaws.com/files.d20.io/images/63703942/v5n3Qjn6CTBM4UkyAwO3vA/thumb.png?1538155738',
+        'https://s3.amazonaws.com/files.d20.io/images/63703940/581CWopqsntxarx8hRp04A/thumb.png?1538155738',
+        'https://s3.amazonaws.com/files.d20.io/images/63703946/AYYDQvuOO6UaDYpkJJLMzQ/thumb.png?1538155739',
+        'https://s3.amazonaws.com/files.d20.io/images/63703944/y1nvIIzIeSdFU9o-qF_ugQ/thumb.png?1538155739',
+        'https://s3.amazonaws.com/files.d20.io/images/63703949/78NQWEuu1K-_pEnrCHjZdg/thumb.png?1538155739',
+        'https://s3.amazonaws.com/files.d20.io/images/63703948/bgbklMyAQHzfeKJbOOz9BQ/thumb.png?1538155739',
+        'https://s3.amazonaws.com/files.d20.io/images/63703947/eQwAdMxjSYLAfd-2xJq26A/thumb.png?1538155739',
+        'https://s3.amazonaws.com/files.d20.io/images/63703945/arwJk_J1EYPHAeuxdalGaA/thumb.png?1538155739',
+        'https://s3.amazonaws.com/files.d20.io/images/63703941/7nFB_q7pLilZR7l1ejEIGw/thumb.png?1538155738',
+        'https://s3.amazonaws.com/files.d20.io/images/63703943/eYZNKQ-yTPWrkzd4GCb2bA/thumb.png?1538155738'
+    ],
+    fg_imgs: [
+        'https://s3.amazonaws.com/files.d20.io/images/63703778/7se1QoPCdAhFGRHUBDS8Sg/thumb.png?1538155583',
+        'https://s3.amazonaws.com/files.d20.io/images/63703774/tJB-Mt26GrZz6NebNk5rHA/thumb.png?1538155583',
+        'https://s3.amazonaws.com/files.d20.io/images/63703784/lYpqczCumEzHu6Db82MfAA/thumb.png?1538155583',
+        'https://s3.amazonaws.com/files.d20.io/images/63703785/79-p4YZmTArvZQEpgcyvzw/thumb.png?1538155583',
+        'https://s3.amazonaws.com/files.d20.io/images/63703775/VJXczGY2NErBTCXbhsXK9A/thumb.png?1538155583',
+        'https://s3.amazonaws.com/files.d20.io/images/63703776/Wrch8UMNYDyOAsviB_Ip-g/thumb.png?1538155583',
+        'https://s3.amazonaws.com/files.d20.io/images/63703773/1IUoPFscz9FpzNQbL1EPUQ/thumb.png?1538155583',
+        'https://s3.amazonaws.com/files.d20.io/images/63703777/YaEhUxg6CjUdS5_gVClsQA/thumb.png?1538155583',
+        'https://s3.amazonaws.com/files.d20.io/images/63703780/et-cIrxgOjFvfxvcQc6w7g/thumb.png?1538155583',
+        'https://s3.amazonaws.com/files.d20.io/images/63703781/xwUJK5Xo5GlKnYx3pfqBfQ/thumb.png?1538155583'
+    ],
+    mg_imgs: [
+        'https://s3.amazonaws.com/files.d20.io/images/63703788/DO6_q7-wqPXMvPb3wTd1Zg/thumb.png?1538155584',
+        'https://s3.amazonaws.com/files.d20.io/images/63703786/CTgfldJyOrkqCTD7DWy_zA/thumb.png?1538155584',
+        'https://s3.amazonaws.com/files.d20.io/images/63703790/0qvtAbRwU2ereZ0rLIiCqQ/thumb.png?1538155584',
+        'https://s3.amazonaws.com/files.d20.io/images/63703782/UQTZus7GRGa2YD4sGwe6xg/thumb.png?1538155583',
+        'https://s3.amazonaws.com/files.d20.io/images/63703792/fs4JKomABtE97t3YOAfgmw/thumb.png?1538155584',
+        'https://s3.amazonaws.com/files.d20.io/images/63703793/s2gnKaaYSBMov2tiN9GwFQ/thumb.png?1538155584',
+        'https://s3.amazonaws.com/files.d20.io/images/63703783/E6G84Z7SzbT8TBKT7RgfQg/thumb.png?1538155583',
+        'https://s3.amazonaws.com/files.d20.io/images/63703787/_4ayvgZsW7f26V0gwGNQbA/thumb.png?1538155584',
+        'https://s3.amazonaws.com/files.d20.io/images/63703791/yUIWB1dHOp_M_tbKfdK1yw/thumb.png?1538155584',
+        'https://s3.amazonaws.com/files.d20.io/images/63703789/WOA8G8mLfpdTSpMyaoxr9A/thumb.png?1538155584'
+    ],
+    fp_imgs: [
+        'https://s3.amazonaws.com/files.d20.io/images/63703880/3jKabA7MENcwTfc75N0YOQ/thumb.png?1538155681',
+        'https://s3.amazonaws.com/files.d20.io/images/63703871/g2379rHI3vT1BOiMI3-ELg/thumb.png?1538155681',
+        'https://s3.amazonaws.com/files.d20.io/images/63703872/ztwjPqI6RjuRs4phuc2oCA/thumb.png?1538155681',
+        'https://s3.amazonaws.com/files.d20.io/images/63703873/fe3Kh6GDdj7pzKAlJ-8rTw/thumb.png?1538155681',
+        'https://s3.amazonaws.com/files.d20.io/images/63703879/86r6_HoJkTtX9KkEAFItZg/thumb.png?1538155681'      
+    ],
+    mp_imgs: [
+        'https://s3.amazonaws.com/files.d20.io/images/63703875/cShXH9PvO7mXvEeR1XugJw/thumb.png?1538155681',
+        'https://s3.amazonaws.com/files.d20.io/images/63703876/G2PM6RQUYUN7eWeIfmoZgw/thumb.png?1538155681',
+        'https://s3.amazonaws.com/files.d20.io/images/63703874/4rvIWqfcjQD4_LIOddq6Cw/thumb.png?1538155681',
+        'https://s3.amazonaws.com/files.d20.io/images/63703877/MIlNwTwcC44ODf6_cv2LTQ/thumb.png?1538155681',
+        'https://s3.amazonaws.com/files.d20.io/images/63703878/xMWoBbVqn-YK3bWZA0drvw/thumb.png?1538155681'
+    ],
+    fm_imgs: [
+        
+    ],
+    mm_imgs: [
+        
+    ],
+    fng_imgs: [
+        
+    ],
+    mng_imgs: [
+        
+    ]
+};
 genGrunt.guns = {
     'P' : ['Pistol', '12', '1/2', '1'],
     'BAP' : ['Bad Ass Pistol', '12', '1/2', '2'],
@@ -102,7 +202,7 @@ genGrunt.generate = (function() {
     var commands = {
             gengrunt: function(args, msg) {
                 var gruntType = args[0] || 0;
-                if (gruntType == 'Citizen' || gruntType == 'Ganger' || gruntType == 'Survivor' || gruntType == 'Police' || gruntType == 'Military' || gruntType == 'NationalGuard') {
+                if (gruntType == 'Citizen' || gruntType == 'Ganger' || gruntType == 'Survivor' || gruntType == 'Police') { // || gruntType == 'Military' || gruntType == 'NationalGuard') {
                     makeGrunt(msg.playerid, msg.who, args[0]);
                 } else {
                     sendChat(`genGrunt v${genGrunt.scriptVersion}`, gruntType+' is not a valid gruntType');
@@ -125,20 +225,46 @@ genGrunt.generate = (function() {
         var myAttribute = getAttribute();
         var myGuns = getGuns(gruntType);
         //var myResources = getResources(gruntType);
+        var gridSize = 35;
+        var currentPageID = Campaign().get('playerpageid'),
+            currentPage = getObj('page', currentPageID);
+        var myAvatar = getAvatar(gruntType, myGender);
         var template = {
           "charactername": "New " + gruntType,
           "gmnotes": "Generated By: genGrunt " + genGrunt.scriptVersion,
           "viewableBy": playerID,
           "controlledBy": playerID
         }
-        template.channelalert = playerName + " created a new " + myGender + " " + gruntType + " character named " + myName;
+        template.channelalert = playerName + " generated a new " + myGender + " " + gruntType + " character named " + myName +".";
         //Creates the Character Object
         var character = createObj("character", {
             name:             myName,
             inplayerjournals: template.viewableBy,
             controlledby:     template.controlledBy,
-            archived:         false
+            archived:         false,
+            avatar: myAvatar
         });
+        //Creates the Token for the Character Object
+        var token = createObj('graphic',{
+            imgsrc: myAvatar,
+            /* other initialization properties here */
+            _pageid: currentPageID,
+            left: gridSize + gridSize/2,
+		    top: gridSize + gridSize/2,
+		    rotation: 0,
+		    width: gridSize,
+		    height: gridSize,
+		    layer: "objects",
+		    // character stuff
+		    represents:character.id,
+        });
+        if(token) {
+             /* Token is valid, do something with it */
+            setDefaultTokenForCharacter(character,token);
+        } else {
+            sendChat("Token Test", "/w gm Token Is Invalid");
+            log("Token is Invalid");
+        } 
         //Set script version
         createObj("attribute", {
             name:         "sheetGenerator",
@@ -147,7 +273,7 @@ genGrunt.generate = (function() {
         });
         //Set character name
         createObj("attribute", {
-            name:         "charName",
+            name:         "character_name",
             current:      myName,
             _characterid: character.id
         });
@@ -255,6 +381,12 @@ genGrunt.generate = (function() {
             current:      myGuns[3],
             _characterid: character.id
         });
+        //Set character unarmed
+        createObj("attribute", {
+            name:         "bat1Name",
+            current:      "Punch and Kick",
+            _characterid: character.id
+        });
 
         sendChat('', "/desc " + template.channelalert);
     }
@@ -309,19 +441,15 @@ genGrunt.generate = (function() {
             myName;
         switch(myGender){
             case "Male":
-                myName=genGrunt.randomNames.maleNames[randomInteger(1000)] + " " + genGrunt.randomNames.lastNames[randomInteger(1000)];
+                myName=genGrunt.randomNames.maleNames[randomInteger(1000)-1] + " " + genGrunt.randomNames.lastNames[randomInteger(1000)-1];
                 break;
             case "Female":
-                myName=genGrunt.randomNames.femaleNames[randomInteger(1000)] + " " + genGrunt.randomNames.lastNames[randomInteger(1000)];
+                myName=genGrunt.randomNames.femaleNames[randomInteger(1000)-1] + " " + genGrunt.randomNames.lastNames[randomInteger(1000)-1];
                 break;
         }
         switch (gruntType){
             case "Police":
-                if (chance < 86) {
-                    myName = "Officer " + myName;
-                } else {
-                    myName = "Detective  " + myName;
-                }
+                myName = "Officer " + myName;
                 break;
             case "Military":
             case "NationalGuard":
@@ -337,6 +465,58 @@ genGrunt.generate = (function() {
                 break;
         }
         return myName;
+    }
+
+    function getAvatar(gruntType, myGender) {
+        var chance = randomInteger(100),
+            myAvatar;
+        switch(myGender){
+            case "Male":
+                switch (gruntType){
+                    case "Citizen":
+                        myAvatar = genGrunt.tokens.mc_imgs[randomInteger(10)-1];
+                        break;
+                    case "Survivor":
+                        myAvatar = genGrunt.tokens.ms_imgs[randomInteger(10)-1];
+                        break;
+                    case "Ganger":
+                        myAvatar = genGrunt.tokens.mg_imgs[randomInteger(10)-1];
+                        break;
+                    case "Police":
+                        myAvatar = genGrunt.tokens.mp_imgs[randomInteger(5)-1];
+                        break;
+                    case "Military":
+                        myAvatar = genGrunt.tokens.mm_imgs[randomInteger(1000)-1];
+                        break;
+                    case "NationalGuard":
+                        myAvatar = genGrunt.tokens.mng_imgs[randomInteger(1000)-1];
+                        break;
+                }
+                break;
+            case "Female":
+                switch (gruntType){
+                    case "Citizen":
+                        myAvatar = genGrunt.tokens.fc_imgs[randomInteger(10)-1];
+                        break;
+                    case "Survivor":
+                        myAvatar = genGrunt.tokens.fs_imgs[randomInteger(10)-1];
+                        break;
+                    case "Ganger":
+                        myAvatar = genGrunt.tokens.fg_imgs[randomInteger(10)-1];
+                        break;
+                    case "Police":
+                        myAvatar = genGrunt.tokens.fp_imgs[randomInteger(5)-1];
+                        break;
+                    case "Military":
+                        myAvatar = genGrunt.tokens.fm_imgs[randomInteger(1000)-1];
+                        break;
+                    case "NationalGuard":
+                        myAvatar = genGrunt.tokens.fng_imgs[randomInteger(1000)-1];
+                        break;
+                }
+                break;
+        }
+        return myAvatar;
     }
 
     function getReputation(gruntType) {
@@ -509,7 +689,7 @@ genGrunt.generate = (function() {
                 }
                 break;
             case "Police":
-                myGuns = genGeunt.guns.BAP;
+                myGuns = genGrunt.guns.BAP;
                 break;
             case "Military":
             case "NationalGuard":
